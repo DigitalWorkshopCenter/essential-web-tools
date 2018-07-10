@@ -1,38 +1,35 @@
-# essential-web-tools
+# Essential Web Tools - Class Outline
 
+## Browser Developer Tools
+### Chrome and Firefox
+ - Elements
+ - JavaScript console and debugger
+ - Network
+### Edge and IE11
+ - Compatibility testing
+
+## Text Editors
+### Visual Studio Code
+ - Extensions
+ - Git integration
+ - Shortcuts
 
 ## Command Line
-### Working with directories
-`pwd`  
-print working directory - shows where you are in the file system
+- Windows vs Mac
+- SSH
 
-`cd`  
-change directory - allows you to move up or down a directory
+## Git and Version Control
+- Create and update a respository
+- Create branches
+- Work in a team with Git
+### Locally
+ - Mac - Command Line
+ - Windows - Git UI or Git Bash
+### Github
+ - github.com
 
-`ls`  
-lists directory contents
+## Package Managers
+ - Ways to track what external code you are using in your project
 
-`DIR`  
-lists directory contents (Windows)
-
-`mkdir`  
-creates a new directory
-
-`rm -r `  
-removes a directory
-
-### GIT
-`git init`  
-creates a git repository
-
-`git add`  
-adds files to be commited
-
-`git commit -m "message"`  
-commit the files that were added
-
-`git push`  
-uploads the changes to the git repository
-
-`git pull`  
-downloads the latest repository
+ - JS - npm
+ - PHP - composer
