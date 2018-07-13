@@ -2,22 +2,33 @@
 <html>
 <body>
 
-<h1>### GIT</h1>
-<p>
-    `git init`  
-    creates a git repository
+<h1>GIT</h1>
+
+    <pre>git init</pre>  
+    <div>creates a git repository</div>
     
-    `git add`  
+    <pre>git add</pre>
     adds files to be commited
     
-    `git commit -m "message"`  
+    <pre>git commit -m "message"</pre>
     commit the files that were added
     
-    `git push`  
+    <pre>git push</pre>
     uploads the changes to the git repository
     
-    `git pull`  
+    <pre>>git pull</pre>
     downloads the latest repository</p>
+
+    <h2>Syncing your fork up with master</h2>
+    <pre>git remote add upstream &ltl:link to original repositry&gt;</pre>
+    adds the original resposity to the project with the name upstream<br>
+    <pre>git remote -v</pre>
+    check that the upstream was added
+    <pre>git pull upstream master</pre>
+    pulls down all the filles from the upstream repository
+    <pre>git push origin master</pre>
+    push the updated files to your fork of the repository
+    <pre>This branch is even with DigitalWorkshopCenter:master.</pre>
 
 </body>
 </html>
