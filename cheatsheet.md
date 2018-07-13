@@ -20,12 +20,18 @@ creates a new directory
 `rm -r `  
 removes a directory
 
-### GIT
+### GIT  
+always a space after GIT
+
 `git init`  
 creates a git repository
 
 `git add`  
-adds files to be commited
+adds files to be commited  
+
+`git add .`  
+adds everything all at once
+
 
 `git commit -m "message"`  
 commit the files that were added
