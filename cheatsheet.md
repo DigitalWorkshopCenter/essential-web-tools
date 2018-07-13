@@ -35,3 +35,7 @@ uploads the changes to the git repository
 
 `git pull`  
 downloads the latest repository
+
+`~~Strike Through~~`
+
+`**BOLDNESS**`
