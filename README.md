@@ -1,5 +1,7 @@
 # Essential Web Tools - Class Outline
 
+Github page - https://digitalworkshopcenter.github.io/essential-web-tools/
+
 ## Browser Developer Tools
 ### Chrome and Firefox
  - Elements
