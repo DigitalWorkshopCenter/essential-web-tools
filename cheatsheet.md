@@ -26,12 +26,19 @@ opens a text editor in the terminal window
 `crtl+x`  
 close nano and get back to terminal
 
-### GIT
+### GIT  
+always a space after GIT
+
+
 `git init`  
 creates a git repository
 
 `git add`  
-adds files to be commited
+adds files to be commited  
+
+`git add .`  
+adds everything all at once
+
 
 `git commit -m "message"`  
 commit the files that were added
@@ -42,7 +49,10 @@ uploads the changes to the git repository
 `git pull`  
 downloads the latest repository
 
+
+`~~Strike Through~~`
+
+`**BOLDNESS**`
+
 `git clone`  
 calls git init, git add origin, git pull
-
-
