@@ -20,8 +20,15 @@ creates a new directory
 `rm -r `  
 removes a directory
 
+`nano <filename>`  
+opens a text editor in the terminal window
+
+`crtl+x`  
+close nano and get back to terminal
+
 ### GIT  
 always a space after GIT
+
 
 `git init`  
 creates a git repository
@@ -42,6 +49,10 @@ uploads the changes to the git repository
 `git pull`  
 downloads the latest repository
 
+
 `~~Strike Through~~`
 
 `**BOLDNESS**`
+
+`git clone`  
+calls git init, git add origin, git pull
